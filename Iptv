@@ -1,0 +1,10 @@
+#EXTINF:_1,PTV SPORTS.
+https://32x2cn7zz29m47vnqt4z-69gxss.p5cdn.com/abr_STClean/zxcv/playlist.m3u8
+#EXTINF:_1,GEO SUPER.
+http://stream1.jeem.tv/geo/geosuper/playlist.m3u8
+#EXTINF:0, group-title="Hindi",Kadak Hits
+http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
+#EXTINF:0, group-title="Hindi",Pop Pataka
+http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
+#EXTINF:0, group-title="Punjabi",Punjabi Tadkaa
+http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
